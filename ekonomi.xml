@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ekonomi</title>
+    <link>https://smertaydin.github.io/noldu-privacy/ekonomi.xml</link>
+    <description>Piyasa ve ekonomi haberleri</description>
+    <language>tr</language>
+    <item>
+      <title>Borsa İstanbul güne yükselişle başladı</title>
+      <link>https://example.com/ekonomi/1</link>
+      <description>BIST 100 endeksi açılışta yüzde 0,8 artışla 9.240 puandan işlem gördü.</description>
+      <pubDate>Thu, 08 May 2026 10:05:00 +0300</pubDate>
+      <guid>ekonomi-1</guid>
+    </item>
+    <item>
+      <title>Merkez Bankası faiz kararını bugün açıklıyor</title>
+      <link>https://example.com/ekonomi/2</link>
+      <description>Piyasalar faizin sabit kalmasını beklerken enflasyon baskısı tartışılıyor.</description>
+      <pubDate>Thu, 08 May 2026 09:00:00 +0300</pubDate>
+      <guid>ekonomi-2</guid>
+    </item>
+    <item>
+      <title>Dolar/TL paritesi sabah saatlerinde dengelendi</title>
+      <link>https://example.com/ekonomi/3</link>
+      <description>Kur, dün kapanışa yakın seviyelerde seyrediyor; yatırımcılar Fed açıklamalarını bekliyor.</description>
+      <pubDate>Thu, 08 May 2026 08:20:00 +0300</pubDate>
+      <guid>ekonomi-3</guid>
+    </item>
+    <item>
+      <title>İhracat rakamları Nisan'da beklentiyi aştı</title>
+      <link>https://example.com/ekonomi/4</link>
+      <description>Türkiye'nin Nisan ayı ihracatı yıllık bazda yüzde 12 artışla 25,4 milyar dolara ulaştı.</description>
+      <pubDate>Wed, 07 May 2026 16:30:00 +0300</pubDate>
+      <guid>ekonomi-4</guid>
+    </item>
+    <item>
+      <title>Konut fiyatlarında ılımlı artış trendi sürüyor</title>
+      <link>https://example.com/ekonomi/5</link>
+      <description>Büyükşehirlerdeki konut fiyat artışı yüzde 3,2 ile önceki aylara göre yavaşladı.</description>
+      <pubDate>Wed, 07 May 2026 13:00:00 +0300</pubDate>
+      <guid>ekonomi-5</guid>
+    </item>
+  </channel>
+</rss>

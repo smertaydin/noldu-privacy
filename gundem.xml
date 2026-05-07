@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Gündem</title>
+    <link>https://smertaydin.github.io/noldu-privacy/gundem.xml</link>
+    <description>Güncel haberler</description>
+    <language>tr</language>
+    <item>
+      <title>Bakanlar Kurulu yeni ekonomi paketini açıkladı</title>
+      <link>https://example.com/haber/1</link>
+      <description>Hükümet, enflasyonla mücadele kapsamında yeni destek paketini kamuoyuyla paylaştı.</description>
+      <pubDate>Thu, 08 May 2026 09:00:00 +0300</pubDate>
+      <guid>gundem-1</guid>
+    </item>
+    <item>
+      <title>Meclis'te eğitim reformu tasarısı görüşüldü</title>
+      <link>https://example.com/haber/2</link>
+      <description>Muhalefet partileri tasarının bazı maddelerine itiraz etti; oylamada sonuç belirsizliğini koruyor.</description>
+      <pubDate>Thu, 08 May 2026 08:30:00 +0300</pubDate>
+      <guid>gundem-2</guid>
+    </item>
+    <item>
+      <title>Cumhurbaşkanlığı'ndan kültür sanat açıklaması</title>
+      <link>https://example.com/haber/3</link>
+      <description>Yeni kültür merkezi projesinin detayları kamuoyuyla paylaşıldı.</description>
+      <pubDate>Thu, 08 May 2026 07:45:00 +0300</pubDate>
+      <guid>gundem-3</guid>
+    </item>
+    <item>
+      <title>Belediye başkanları toplantısı Ankara'da yapıldı</title>
+      <link>https://example.com/haber/4</link>
+      <description>Büyükşehir belediye başkanları kentsel dönüşüm gündemini ele aldı.</description>
+      <pubDate>Wed, 07 May 2026 18:00:00 +0300</pubDate>
+      <guid>gundem-4</guid>
+    </item>
+    <item>
+      <title>Yeni anayasa taslağı çalışmaları sürüyor</title>
+      <link>https://example.com/haber/5</link>
+      <description>Komisyon üyeleri taslak metni üzerinde son rötuşları yapıyor.</description>
+      <pubDate>Wed, 07 May 2026 15:20:00 +0300</pubDate>
+      <guid>gundem-5</guid>
+    </item>
+  </channel>
+</rss>

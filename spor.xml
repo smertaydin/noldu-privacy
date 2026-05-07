@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Spor</title>
+    <link>https://smertaydin.github.io/noldu-privacy/spor.xml</link>
+    <description>Spor dünyasından son dakika</description>
+    <language>tr</language>
+    <item>
+      <title>Süper Lig'de şampiyonluk yarışı son haftaya kaldı</title>
+      <link>https://example.com/spor/1</link>
+      <description>Puan farkı tek haneye gerilerken final maçları büyük heyecan yaratıyor.</description>
+      <pubDate>Thu, 08 May 2026 10:00:00 +0300</pubDate>
+      <guid>spor-1</guid>
+    </item>
+    <item>
+      <title>Milli takım hazırlık kampını tamamladı</title>
+      <link>https://example.com/spor/2</link>
+      <description>Teknik direktör kamp değerlendirmesinde kadrodan memnun olduğunu söyledi.</description>
+      <pubDate>Thu, 08 May 2026 09:10:00 +0300</pubDate>
+      <guid>spor-2</guid>
+    </item>
+    <item>
+      <title>Avrupa Ligi'nde Türk kulübü çeyrek finale yükseldi</title>
+      <link>https://example.com/spor/3</link>
+      <description>Uzatmada gelen golden sonra takım tarihinin en büyük başarısını elde etti.</description>
+      <pubDate>Thu, 08 May 2026 07:30:00 +0300</pubDate>
+      <guid>spor-3</guid>
+    </item>
+    <item>
+      <title>NBA play-off serisinde sürpriz sonuç</title>
+      <link>https://example.com/spor/4</link>
+      <description>Düşük beklentilerle turnuvaya giren takım, favoriyi 4-1 geçerek finallere kaldı.</description>
+      <pubDate>Wed, 07 May 2026 23:00:00 +0300</pubDate>
+      <guid>spor-4</guid>
+    </item>
+    <item>
+      <title>Atletizm Dünya Şampiyonası'nda altın madalya sevinci</title>
+      <link>https://example.com/spor/5</link>
+      <description>Türk atlet 800 metrede kırdığı derecesiyle tarihe geçti.</description>
+      <pubDate>Wed, 07 May 2026 20:00:00 +0300</pubDate>
+      <guid>spor-5</guid>
+    </item>
+  </channel>
+</rss>

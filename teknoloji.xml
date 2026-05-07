@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Teknoloji</title>
+    <link>https://smertaydin.github.io/noldu-privacy/teknoloji.xml</link>
+    <description>Teknoloji dünyasından son gelişmeler</description>
+    <language>tr</language>
+    <item>
+      <title>Yeni yapay zeka modeli dil testlerinde rekor kırdı</title>
+      <link>https://example.com/tech/1</link>
+      <description>Araştırmacılar, büyük dil modelinin önceki nesle kıyasla yüzde kırk daha hızlı çalıştığını açıkladı.</description>
+      <pubDate>Thu, 08 May 2026 10:15:00 +0300</pubDate>
+      <guid>tech-1</guid>
+    </item>
+    <item>
+      <title>Elektrikli araç batarya maliyeti beş yılda yarıya düştü</title>
+      <link>https://example.com/tech/2</link>
+      <description>Sektör analizi, 2030'a kadar maliyetin daha da gerileyeceğini öngörüyor.</description>
+      <pubDate>Thu, 08 May 2026 09:30:00 +0300</pubDate>
+      <guid>tech-2</guid>
+    </item>
+    <item>
+      <title>Türk girişimi uzay uydusu testini başarıyla tamamladı</title>
+      <link>https://example.com/tech/3</link>
+      <description>Yerli uydu, yörünge testlerinde beklenen performansın üzerinde sonuç verdi.</description>
+      <pubDate>Thu, 08 May 2026 08:00:00 +0300</pubDate>
+      <guid>tech-3</guid>
+    </item>
+    <item>
+      <title>Kuantum bilgisayar çipinde yeni kırılma noktası</title>
+      <link>https://example.com/tech/4</link>
+      <description>Araştırma ekibi, 1000 kübitlik kararlı işlem için gerekli eşiği aştıklarını duyurdu.</description>
+      <pubDate>Wed, 07 May 2026 17:00:00 +0300</pubDate>
+      <guid>tech-4</guid>
+    </item>
+    <item>
+      <title>Siber güvenlik sektöründe küresel işgücü açığı büyüyor</title>
+      <link>https://example.com/tech/5</link>
+      <description>Rapora göre 2026 sonunda dünya genelinde 4 milyon güvenlik uzmanı açığı oluşacak.</description>
+      <pubDate>Wed, 07 May 2026 14:00:00 +0300</pubDate>
+      <guid>tech-5</guid>
+    </item>
+  </channel>
+</rss>
